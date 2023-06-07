@@ -1,1 +1,3 @@
-# jangjessica.github.io
+# WEB110 Jessica Jang
+
+http://jangjessica.github.io
